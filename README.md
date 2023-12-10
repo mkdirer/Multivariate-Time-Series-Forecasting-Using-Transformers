@@ -5,7 +5,7 @@
 - Przemysław Rewiś
 
 ## Project Description:
-This project focuses on developing a Transformers-based neural network for modeling and forecasting multivariate time series data using a dataset related to COVID-19 in Poland. The entire project was implemented in Python using the Keras library for defining and training the neural network, as well as numpy, pandas, matplotlib, and sklearn for data analysis and model evaluation.
+This project focuses on developing a Transformers-based neural network for modeling and forecasting multivariate time series data using a dataset related to COVID-19 in Poland. The entire project was implemented in Python using the Keras library for defining and training the neural network, as well as numpy, pandas, matplotlib, and sklearn for data analysis and model evaluation. 
 
 ## Data Preparation:
 After an initial review of the dataset, specific parameters such as new cases, total tests conducted, new recoveries, and active cases were chosen as the data for modeling. Data preprocessing was performed, including removing unnecessary columns, handling missing data, and scaling the data using Min-Max Scaler.
