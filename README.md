@@ -1,4 +1,4 @@
-# Multivariate Time Series Forecasting Using Transformers
+# Multivariate Time Series Forecasting Using Transformers 
 ## Authors:
 - Łukasz Wajda
 - Michał Orlewski
